@@ -1,4 +1,4 @@
-# Blockchain and Wallet in Python
+# Blockchain and Wallet Simulator
 
 This Python project demonstrates a simple implementation of a Blockchain and Wallet system. The Blockchain class contains methods for various operations such as adding transactions, verifying transactions, mining new blocks, and replacing the chain. The Wallet class facilitates the creation and management of private and public keys for secure transactions. 
 
